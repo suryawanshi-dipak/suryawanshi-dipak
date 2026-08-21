@@ -24,14 +24,43 @@ Alongside backend work I care about **automation and DevOps** — CI/CD, reprodu
 
 ### 🛠️ Tech Stack
 
-| | |
-|:---|:---|
-| **Languages** | <img height="38" src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" /> |
-| **Backend** | <img height="38" src="https://skillicons.dev/icons?i=spring,nodejs,maven&theme=dark" /> ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=openjdk&logoColor=white) |
-| **Frontend** | <img height="38" src="https://skillicons.dev/icons?i=react&theme=dark" /> |
-| **Databases** | <img height="38" src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /> |
-| **DevOps** | <img height="38" src="https://skillicons.dev/icons?i=docker,githubactions,linux,git&theme=dark" /> |
-| **Tools** | <img height="38" src="https://skillicons.dev/icons?i=idea,postman,github,bash&theme=dark" /> ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+<div align="center">
+
+<table>
+<tr>
+  <td align="right"><b>&nbsp;Languages&nbsp;</b></td>
+  <td><img height="40" src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" /></td>
+</tr>
+<tr>
+  <td align="right"><b>&nbsp;Backend&nbsp;</b></td>
+  <td><img height="40" src="https://skillicons.dev/icons?i=spring,nodejs,maven&theme=dark" /></td>
+</tr>
+<tr>
+  <td align="right"><b>&nbsp;Frontend&nbsp;</b></td>
+  <td><img height="40" src="https://skillicons.dev/icons?i=react,html,css&theme=dark" /></td>
+</tr>
+<tr>
+  <td align="right"><b>&nbsp;Databases&nbsp;</b></td>
+  <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /></td>
+</tr>
+<tr>
+  <td align="right"><b>&nbsp;DevOps&nbsp;</b></td>
+  <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions,linux,git&theme=dark" /></td>
+</tr>
+<tr>
+  <td align="right"><b>&nbsp;Tools&nbsp;</b></td>
+  <td><img height="40" src="https://skillicons.dev/icons?i=idea,postman,github,bash&theme=dark" /></td>
+</tr>
+</table>
+
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=openjdk&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-1F6FEB?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Apache MINA SSHD](https://img.shields.io/badge/Apache_MINA_SSHD-D22128?style=flat-square&logo=apache&logoColor=white)
+
+</div>
 
 ---
 
@@ -77,7 +106,8 @@ Alongside backend work I care about **automation and DevOps** — CI/CD, reprodu
 | | |
 |:---|:---|
 | 🧱 **Projects** | LinuxDesk · FlowForge · Workshop Management System |
-
+| 🌍 **Open Source** | `YOUR_OPEN_SOURCE_CONTRIBUTION` |
+| 📜 **Certifications** | `YOUR_CERTIFICATION — Issuer, Year` |
 
 ---
 
