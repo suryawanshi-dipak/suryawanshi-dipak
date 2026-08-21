@@ -77,8 +77,7 @@ Alongside backend work I care about **automation and DevOps** — CI/CD, reprodu
 | | |
 |:---|:---|
 | 🧱 **Projects** | LinuxDesk · FlowForge · Workshop Management System |
-| 🌍 **Open Source** | `YOUR_OPEN_SOURCE_CONTRIBUTION` |
-| 📜 **Certifications** | `YOUR_CERTIFICATION — Issuer, Year` |
+
 
 ---
 
