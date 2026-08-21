@@ -1,5 +1,4 @@
-« Place this file at: .github/workflows/snake.yml »
-
+# Place this file at: .github/workflows/snake.yml
 name: Generate Snake Animation
 
 on:
