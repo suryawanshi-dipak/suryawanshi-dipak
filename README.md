@@ -77,7 +77,7 @@ Alongside backend work I care about **automation and DevOps** — CI/CD, reprodu
 <div align="center">
 
 <img height="160" src="https://github-stats-extended.vercel.app/api?username=suryawanshi-dipak&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub stats" />
-<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=suryawanshi-dipak&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=58A6FF" alt="Top languages" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=suryawanshi-dipak&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=dockerfile,batchfile,shell&title_color=58A6FF" alt="Top languages" />
 
 <!-- Snake animation — needs .github/workflows/snake.yml. Delete this block if you skip that setup. -->
 <picture>
