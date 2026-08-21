@@ -61,13 +61,13 @@ Alongside backend work I care about **automation and DevOps** — CI/CD, reprodu
 
 ### 🚀 Featured Projects
 
-**[🖥️ LinuxDesk](https://github.com/suryawanshi-dipak/LinuxDesk)** — Agentless Linux operations workspace. Manage servers over SSH with file management, deployment, rollback, service management, monitoring and audit logs — nothing installed on the server.
+**[🖥️ LinuxDesk](https://github.com/suryawanshi-dipak/linuxdesk)** — Agentless Linux operations workspace. Manage servers over SSH with file management, deployment, rollback, service management, monitoring and audit logs — nothing installed on the server.
 <sub>`Java` `JavaFX` `Apache MINA SSHD` `Linux`</sub>
 
-**[🧩 FlowForge](https://github.com/suryawanshi-dipak/FlowForge)** — Lightweight Java backend framework built from scratch without Spring: annotation-based routing, DI, JWT auth, middleware pipeline, validation engine and an interactive `/dev/docs-ui`.
+**[🧩 FlowForge](https://github.com/dipakcode1710/flowforge_framework)** — Lightweight Java backend framework built from scratch without Spring: annotation-based routing, DI, JWT auth, middleware pipeline, validation engine and an interactive `/dev/docs-ui`.
 <sub>`Java` `JWT` `OpenAPI` `Maven`</sub>
 
-**[🔧 Workshop Management System](https://github.com/suryawanshi-dipak/YOUR_REPO_NAME)** — Spring Boot backend with role-based access control, REST APIs and MySQL integration.
+**[🔧 Workshop Management System](https://github.com/suryawanshi-dipak/workshop-management-system)** — Spring Boot backend with role-based access control, REST APIs and MySQL integration.
 <sub>`Spring Boot` `MySQL` `REST APIs`</sub>
 
 ---
